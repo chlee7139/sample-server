@@ -1,0 +1,12 @@
+name: Rpgs
+version: 0.1.0
+main: io.github.chlee7139.Main
+api-version: 1.17
+author: chlee7139
+description: new RPG system
+depend: [ArmorEquipEvent, ProtocolLib]
+libraries:
+  - io.github.monun:kommand:2.6.5
+commands:
+  timer:
+  itemset:

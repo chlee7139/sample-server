@@ -1,0 +1,8 @@
+name: wildless
+version: 0.1.0
+main: io.github.monite52.plugins.Main
+api-version: 1.17
+author: monite52
+description: new RPG system
+depend: [ArmorEquipEvent, ProtocolLib]
+commands:
